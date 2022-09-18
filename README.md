@@ -8,3 +8,13 @@
   3. getMaxLengthString(['hi']) return ['hi']
   4. getMaxLengthString(null) return undefined
   5. getMaxLengthString(undefined) return undefined
+
+
+  //advance
+  // if(arrayOfString ===(null || undefined)){
+  //   return undefined
+  // }else  if (arrayOfString !== (null|| undefined)){
+  //  let count = arrayOfString.map(word => word.length)
+  //  let max = Math.max(...count)
+  
+  //  return arrayOfString.filter(word => word.length)
