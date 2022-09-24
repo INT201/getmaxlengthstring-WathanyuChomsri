@@ -10,6 +10,25 @@
   5. getMaxLengthString(undefined) return undefined
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   //advance
   // if(arrayOfString ===(null || undefined)){
   //   return undefined
